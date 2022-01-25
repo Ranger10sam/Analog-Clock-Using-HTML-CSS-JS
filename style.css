@@ -3,7 +3,7 @@
     margin: auto;
     width: 440px;
     height: 440px;
-    background: url(/clock.png) no-repeat;
+    background: url(./clock.png) no-repeat;
     background-size: 100%;
     box-shadow: 20px;
 }
